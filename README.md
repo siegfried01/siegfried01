@@ -3,11 +3,11 @@
 I'm Siegfried.
 
 Here are a few of projects I'm working on
-  - Throttled Batch Execution Queue
-    - This is very useful for developers if you have long build times and you need to build and run unit tests before you push your code
-    - I've been using this for years and also very useful for backup that take a long time (like slow thumb drives)
+  - Throttled Batch Execution Queue (WCF/MSMQ)
+    - This is very useful for developers if you have long build times and you need to build and run unit tests before you push your code.
+    - I've been using this for years and it is also very useful for backups that take a very long time (because of slow large capaicty thumb drives)
     - While I started a WPF version on github, most of my work is with command line tools I have not checked in yet.
-  - Azure Active Directory B2C & Kubernetes demos (I think this might turn into a book proposal)
+  - Azure Active Directory B2C & Kubernetes demos (I think this might turning into a book proposal)
   - Universal SQL command line tool
   - C++ Tutorials for a new youtube.com channel.
 
