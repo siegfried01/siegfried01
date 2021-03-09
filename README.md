@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there
 
 I'm Siegfried.
 
 Here are a few of projects I'm working on
-  - Throttled Batch Execution Queue (this is very useful for developers if you have long build times and you need to build before you push your code)
+  - Throttled Batch Execution Queue
+    - This is very useful for developers if you have long build times and you need to build and run unit tests before you push your code
+    - I've been using this for years and also very useful for backup that take a long time (like slow thumb drives)
+    - While I started a WPF version on github, most of my work is with command line tools I have not checked in yet.
   - Azure Active Directory B2C & Kubernetes demos (I think this might turn into a book proposal)
   - Universal SQL command line tool
-  - C++ Tutorials for a new youtube.com channel
+  - C++ Tutorials for a new youtube.com channel.
 
 <!--
 **siegfried01/siegfried01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
